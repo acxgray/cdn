@@ -1,0 +1,42 @@
+body {
+	font-family: 'Open Sans',sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+
+.cover{
+	position:relative;
+	width: 100%;
+	height: auto;
+	min-height:35rem;
+	padding: 10rem 0;
+	background-position: center;
+	background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/qcpu-628.jpg");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	font-family: 'Open Sans',sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+
+.contact-font {
+	font-family: 'Open Sans',sans-serif !important;
+	font-style: normal !important;
+	font-weight: 600 !important;
+}
+
+.about-section {
+  padding-top:3rem;
+  border-radius: 5rem;
+  background-color:darkgoldenrod;
+  opacity:0.7;
+	text-emphasis-color:white;
+	font-family: 'Open Sans',sans-serif;
+	font-style: normal;
+}
+
+.contact-section {
+	font-family: 'Open Sans',sans-serif;
+	font-style: normal;
+}
