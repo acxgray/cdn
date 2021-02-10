@@ -1,0 +1,42 @@
+.nav-pills .settings-nav-link.active, .nav-pills .show > .settings-nav-link {
+	border-radius: 0px !important;
+	color: #17A2B8 !important;
+	border-left: 3px solid #17A2B8 !important;
+	background-color: #F8F9FC !important;
+	text-decoration: none;
+}
+
+.settings-nav-link {
+	display: block;
+	padding: 0.5rem 1rem;
+	text-decoration: none;
+	padding: 1rem;
+}
+
+.settings-nav-link a {
+	color: #000;
+	text-decoration: none;
+	background-color: transparent;
+}
+
+a {
+	color: #17A2B8;
+	text-decoration: none;
+	background-color: transparent;
+}
+
+a:hover {
+	color: #17A2B8;
+	text-decoration: none;
+	/* font-weight: bold; */
+}
+
+.btn {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+.errorx {
+    font-size: 14px;
+    color: #E02D1B;
+    font-weight: 500;
+  }

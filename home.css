@@ -1,0 +1,169 @@
+body, button {
+  font-family: 'Open Sans', sans-serif!important;
+  font-style: normal;
+  font-weight: 400;
+}
+
+#mainNav {
+    min-height: 56px;
+    background-color: #4F837F;
+}
+
+.btn {
+  font-family: 'Open Sans', sans-serif!important;
+  font-style: normal;
+  font-weight: 400;
+}
+
+
+.masthead {
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 35rem;
+  padding: 15rem 0;
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%),url("../img/qcu.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+@media (min-width: 992px) {
+  #mainNav {
+      /* min-height: 56px; */
+      background-color: #17A2B8;
+      color: white;
+  }
+
+  .navbar {
+    color: white !important;
+  }
+
+  .color-nav {
+    color: #fff !important;
+  }
+
+  .masthead {
+    height: 100vh;
+    padding: 0;
+  }
+  .masthead h1 {
+    font-size: 6.5rem;
+    line-height: 6.5rem;
+    letter-spacing: 0.8rem;
+  }
+  .masthead h2 {
+    max-width: 30rem;
+    font-size: 1.25rem;
+  }
+}
+
+.about-section{
+    background: linear-gradient(to bottom,rgba(22, 22, 22, 22) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%),url("../img/4.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media (min-width: 900px) {
+    .about-section{
+        height: 150vh;
+        padding: 0;
+    }
+}
+
+
+.contact-section{
+   background:linear-gradient(to top, #161616 100%,rgba(22, 22, 22, 0.3) 0%, #161616 100%);
+   
+}
+
+
+body, button {
+    font-family: 'Open Sans', sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  #mainNav {
+      min-height: 56px;
+      background-color: #4F837F;
+  }
+
+  #mainNav .navbar-nav .nav-item:active {
+      color: white !important;
+  }
+  
+  .btn {
+    font-family: 'Open Sans', sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  
+  .masthead {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 35rem;
+    padding: 15rem 0;
+    background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%),url("../img/qcu.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+  
+  @media (min-width: 992px) {
+    #mainNav {
+        /* min-height: 56px; */
+        background-color: #4F837F;
+        color: white;
+    }
+  
+    .navbar {
+      color: white !important;
+    }
+  
+    .color-nav {
+      color: #fff !important;
+    }
+  
+    .masthead {
+      height: 100vh;
+      padding: 0;
+    }
+    .masthead h1 {
+      font-size: 6.5rem;
+      line-height: 6.5rem;
+      letter-spacing: 0.8rem;
+    }
+    .masthead h2 {
+      max-width: 30rem;
+      font-size: 1.25rem;
+    }
+  }
+  
+  .about-section{
+      background: linear-gradient(to bottom,rgba(22, 22, 22, 22) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%),url("../img/4.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  
+  @media (min-width: 900px) {
+      .about-section{
+          height: 150vh;
+          padding: 0;
+      }
+  }
+  
+  
+  .contact-section{
+     background:linear-gradient(to top, #161616 100%,rgba(22, 22, 22, 0.3) 0%, #161616 100%);
+     
+  }
+  
+  
+  

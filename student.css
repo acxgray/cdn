@@ -1,0 +1,38 @@
+body {
+	font-family: 'Open Sans', sans-serif !important;
+	font-style: normal !important;
+	font-weight: 400 !important;
+}
+
+.nav-item:active {
+  color: white !important;
+  outline: none;
+  background-color: transparent;
+}
+
+.grades{
+  position:relative;
+  width: 100%;
+  height:auto;
+  min-height:35rem;
+  padding: 15rem 0;
+  background-position: center;
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%),url("../img/sch.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size:cover;
+  align-items:center;
+}
+
+
+.card{
+   opacity:0.8;
+}
+
+.btn {
+	font-family: 'Open Sans', sans-serif !important;
+	font-style: normal !important;
+	font-weight: 400 !important;
+	padding: 1rem 1rem 1rem 1rem!important;
+}
+
